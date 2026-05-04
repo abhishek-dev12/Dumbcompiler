@@ -1,0 +1,3 @@
+/mnt/d/compiler/dumbcompiler/build/CMakeFiles/dumbcompiler.dir
+/mnt/d/compiler/dumbcompiler/build/CMakeFiles/edit_cache.dir
+/mnt/d/compiler/dumbcompiler/build/CMakeFiles/rebuild_cache.dir
